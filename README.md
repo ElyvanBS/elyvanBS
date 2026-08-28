@@ -19,4 +19,4 @@ z
 
 - <a href="https://www.linkedin.com/in/elyvanbs" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="30" alt="LinkedIn" />
-  </a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> [LinkedIn](https://www.linkedin.com/in/elyvanbs)
+  </a>  
