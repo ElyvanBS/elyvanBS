@@ -13,18 +13,11 @@
 ---
 
 
-<p>
 - 🌱 Estudando Engenharia de Software na UTFPR
-<\p>
 
-<p>
 - 📩 <a href="mailto:elyvanbs@gmail.com">elyvanbs@gmail.com</a>
-</p> 
 
-
-<p>
 - 📄 <a href="https://elyvanbs.dev/">https://elyvanbs.dev/</a>
-</p> 
   
 ---
 
