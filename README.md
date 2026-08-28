@@ -17,7 +17,7 @@
 
 - 📩 <a href="mailto:elyvanbs@gmail.com">elyvanbs@gmail.com</a>
 
-- 📄 <a href="https://elyvanbsdev.vercel.app/">https://elyvanbs.dev/</a>
+- 📄 <a href="https://elyvanbsdev.vercel.app/">https://elyvanbsdev.vercel.app/</a>
   
 ---
 
