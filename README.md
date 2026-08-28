@@ -15,9 +15,9 @@
 
 - 🌱 Estudando Engenharia de Software na UTFPR
 
-- 📩 <a href="mailto:elyvanbs@gmail.com">elyvanbs@gmail.com</a>
+- 📩 Email para contato: <a href="mailto:elyvanbs@gmail.com">elyvanbs@gmail.com</a>
 
-- 📄 <a href="https://elyvanbsdev.vercel.app/">https://elyvanbsdev.vercel.app/</a>
+- 📄 Conheça minhas experiências: <a href="https://elyvanbsdev.vercel.app/">https://elyvanbsdev.vercel.app/</a>
   
 ---
 
