@@ -14,16 +14,16 @@
 
 
 <p>
-  🌱 Estudando Engenharia de Software na UTFPR
+  - 🌱 Estudando Engenharia de Software na UTFPR
 <p>
-  📩 <a href="mailto:elyvanbs@gmail.com">elyvanbs@gmail.com</a>
+  - 📩 <a href="mailto:elyvanbs@gmail.com">elyvanbs@gmail.com</a>
 </p> 
 
 </p>
 
 <p>
 
-📄 <a href="https://elyvanbs.dev/">https://elyvanbs.dev/</a>
+- 📄 <a href="https://elyvanbs.dev/">https://elyvanbs.dev/</a>
 
 ---
 
