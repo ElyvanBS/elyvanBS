@@ -25,7 +25,7 @@ Crio aplicações web com foco em experiência do usuário, organização e perf
 
 ---
 
-### 📫 Contato
+### Contate-se Comigo:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elyvanbs)
 - 🐱 [GitHub](https://github.com/elyvanBS)
