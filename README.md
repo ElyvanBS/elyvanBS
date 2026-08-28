@@ -1,7 +1,7 @@
 <h1 align="center">
   🚀💻 <br>
   <span style="font-size: 35px;">Elyvan Bernardino da S.</span> <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Angular%2C+BootStrap%2C+JS%2C+SpringBoot%2C+JS%2C+Docker+e+MySQLWorkBench;Versionamento+com+Git+e+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Angular;BootStrap;SpringBoot;Docker+e+MySQLWorkBench;Versionamento+com+Git+e+GitHub" alt="Typing SVG" />
 </h1>
 
 ---
