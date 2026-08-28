@@ -17,16 +17,12 @@ z
   <a href="https://www.linkedin.com/in/elyvanbs" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="30" alt="LinkedIn" />
   </a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ### Contate-se comigo:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/elyvanbs)
-- 🐱 [GitHub](https://github.com/elyvanBS)
+- <a href="https://www.linkedin.com/in/elyvanbs" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="30" alt="LinkedIn" />
+  </a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> [LinkedIn](https://www.linkedin.com/in/elyvanbs)
