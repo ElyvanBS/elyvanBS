@@ -10,12 +10,13 @@
 
 Sou um desenvolvedor **Front-End** apaixonado por tecnologia e interfaces modernas.  
 Crio aplicações web com foco em experiência do usuário, organização e performance.
-
+z
 **Tecnologias que uso:**
 
 <p>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png?style=width:200px"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/elyvanbs" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="30" alt="LinkedIn" />
+  </a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
