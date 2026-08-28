@@ -6,13 +6,12 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+🌱
+<a href="mailto:elyvanbs@gmail.com" target="_blank">
+  📩 elyvanbs@gmail.com
+</a>  
 
-Sou um desenvolvedor **Front-End** apaixonado por tecnologia e interfaces modernas.  
-Crio aplicações web com foco em experiência do usuário, organização e performance.
-z
-
-
+📄
 ---
 
 ### Contate-se comigo:
