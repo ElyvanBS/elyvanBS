@@ -17,6 +17,14 @@
 
 ### Contate-se comigo:
 
-<a href="https://www.linkedin.com/in/elyvanbs" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="30" alt="LinkedIn" />
-</a>  
+<p>
+  📩 <a href="mailto:elyvanbs@gmail.com">elyvanbs@gmail.com</a>
+</p>
+
+<p>
+  🔗 <a href="https://www.linkedin.com/in/elyvanbs" target="_blank">LinkedIn</a>
+</p>
+
+<p>
+  🐱 <a href="https://github.com/elyvanBS" target="_blank">GitHub</a>
+</p>
