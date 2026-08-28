@@ -7,8 +7,9 @@
 ---
 
 🌱
+ - 📩
 <a href="mailto:elyvanbs@gmail.com" target="_blank">
-  📩 elyvanbs@gmail.com
+   elyvanbs@gmail.com
 </a>  
 
 📄
