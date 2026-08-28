@@ -7,11 +7,11 @@
 ---
 
 🌱
- - 📩
+ - <span>📩
 <a href="mailto:elyvanbs@gmail.com" target="_blank">
    elyvanbs@gmail.com
 </a>  
-
+</span>
 📄
 ---
 
